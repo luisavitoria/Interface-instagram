@@ -1,2 +1,2 @@
 # Interface-instagram
-Clone da interface do Instagram
+Clone da interface de login do Instagram
